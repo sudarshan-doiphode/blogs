@@ -20,19 +20,22 @@ Welcome to my blog repository! Here, you will find links to my latest articles w
 5. **[What do you mean by StringBuffer is a thread-safe implementation?](https://hashnode.com/edit/cly9y3uib000h08l86nu6d7li)**
    - Discover why `StringBuffer` is considered thread-safe and how it ensures safe operations in a multithreaded environment.
 
-### Spring Framework
-6. **[ResponseEntity<T> in Spring Framework](https://hashnode.com/edit/clpp2p0wr000709l7cqgwag0r)**
+### Spring and Spring Boot
+1. **[ResponseEntity<T> in Spring Framework](https://hashnode.com/edit/clpp2p0wr000709l7cqgwag0r)**
    - A comprehensive guide on using `ResponseEntity<T>` in Spring Framework to handle HTTP responses effectively.
 
-7. **[HttpEntity in Spring Framework](https://hashnode.com/edit/clpzoc962000108jx7hzia1j9)**
+2. **[HttpEntity in Spring Framework](https://hashnode.com/edit/clpzoc962000108jx7hzia1j9)**
    - Understand the purpose and usage of `HttpEntity` in Spring Framework for managing HTTP requests and responses.
 
-8. **[ResponseEntity<T> vs HttpEntity<T>](https://hashnode.com/edit/clqi6d6h9000408jr660e2ect)**
+3. **[ResponseEntity<T> vs HttpEntity<T>](https://hashnode.com/edit/clqi6d6h9000408jr660e2ect)**
    - Compare `ResponseEntity<T>` and `HttpEntity<T>` to know their differences and use cases.
+  
+4. **[Step-by-Step Guide to Validations in Spring Boot Starter](https://sudarshandoiphode.hashnode.dev/starting-with-spring-boot-starter-validations-a-simple-guide)**
+   - Learn how to implement robust data validation in Spring Boot applications with our comprehensive guide, including built-in and custom annotations, global exception handling, and standardized error responses.
 
 
 ### Docker and Spring Boot
-9. **[Generating a Docker Image for a Spring Boot Application 🤯](https://hashnode.com/edit/clz3rna4d000g09jtec262a8v)**
+1. **[Generating a Docker Image for a Spring Boot Application 🤯](https://hashnode.com/edit/clz3rna4d000g09jtec262a8v)**
    - Follow this step-by-step guide to learn how to create Docker images for your Spring Boot applications, streamlining your deployment process.
 
 ## Follow Me
