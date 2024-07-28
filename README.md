@@ -40,7 +40,8 @@ Welcome to my blog repository! Here, you will find links to my latest articles w
 
 ## Follow Me
 
-Stay updated with my latest articles and tutorials by following me on [Hashnode](https://hashnode.com/@100bitdarsh).
+Stay updated with my latest articles and tutorials by following me on [Hashnode](https://hashnode.com/@100bitdarsh) \
+Stay updated with latest technologies and tutorialls by following me on [Youtube](https://www.youtube.com/@100bitdarsh)
 
 ## Connect with Me
 
